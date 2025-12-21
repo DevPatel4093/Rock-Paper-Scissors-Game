@@ -1,0 +1,7 @@
+cd Rock-Paper-Scissors-Game-main
+
+g++ rock-paper-scissor.cpp -o output
+./output
+
+g++ r-p-s.cpp -o output
+./output
