@@ -71,5 +71,5 @@ Image Credits : Wiki Pedia
 3. Input will be compared with computers choice.
 4. According to rules, one of them will win.
 
-## 👤 Author
+## 👨‍💻 Author
 **Dev Patel**
