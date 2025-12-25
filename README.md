@@ -22,11 +22,13 @@ The program is beginner-friendly and demonstrates basic C++ concepts such as fun
 ---
 
 ## 📂 Project Structure
+```
 Rock-Paper-Scissors-Game-main/
 ├── r-p-s.cpp // Simple Code without Emojis
 ├── rock-paper-scissor.cpp // Code with Emojis
 ├── output.exe
 └── README.md
+```
 
 🎯 Game Rules
 r → Rock
